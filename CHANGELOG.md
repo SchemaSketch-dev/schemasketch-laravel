@@ -9,6 +9,9 @@ dates that section and opens a pull request to `main`; once it is merged,
 
 ## Unreleased
 
+- Development dependency update: laravel/framework 13.39.0 → 13.42.0
+  (lock file only; the package's supported Laravel versions are unchanged).
+
 ## 0.7.0 (2026-11-13)
 
 - Requests to SchemaSketch now say they come from this package and which
