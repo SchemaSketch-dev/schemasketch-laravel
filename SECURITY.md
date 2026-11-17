@@ -14,7 +14,7 @@ release; update to it to get security fixes.
 
 Please don't open a public issue. Report it privately through GitHub:
 **Security → Report a vulnerability** on this repository
-(https://github.com/sioannides/schemasketch-laravel/security/advisories/new).
+(https://github.com/SchemaSketch-dev/schemasketch-laravel/security/advisories/new).
 
 Include what you found, how to reproduce it, and which version you used.
 You'll get a reply within 5 working days. Once a fix is released, the
