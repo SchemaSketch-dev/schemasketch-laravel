@@ -9,6 +9,12 @@ dates that section and opens a pull request to `main`; once it is merged,
 
 ## Unreleased
 
+## 0.7.2 (2026-11-17)
+
+- The repository moved to the SchemaSketch organization on GitHub:
+  https://github.com/SchemaSketch-dev/schemasketch-laravel (old links redirect). The
+  `support` links in `composer.json` point there. No code changes.
+
 ## 0.7.1 (2026-11-15)
 
 - Development dependency update: laravel/framework 13.39.0 → 13.42.0

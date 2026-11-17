@@ -19,8 +19,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/sioannides/schemasketch-laravel/issues",
-        "source": "https://github.com/sioannides/schemasketch-laravel",
+        "issues": "https://github.com/SchemaSketch-dev/schemasketch-laravel/issues",
+        "source": "https://github.com/SchemaSketch-dev/schemasketch-laravel",
         "docs": "https://schemasketch.dev/laravel-package"
     },
     "require": {
