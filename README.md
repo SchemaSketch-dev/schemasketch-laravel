@@ -11,6 +11,10 @@
 Turn any Laravel app into a live [SchemaSketch](https://schemasketch.dev)
 diagram, check it for drift, and generate migrations from your diagram.
 
+[![Example: SaaS app (teams, billing, projects)](https://schemasketch.dev/api/public/diagrams/LSuBn7lbBYp8pdxAW3wQfb/image.svg)](https://schemasketch.dev/view?token=LSuBn7lbBYp8pdxAW3wQfb)
+
+<sub>This diagram is live: it's a SchemaSketch share link, so it updates when the diagram is edited.</sub>
+
 > Early release (0.x): commands and options may still change before 1.0.
 > Full guide: [schemasketch.dev/laravel-package](https://schemasketch.dev/laravel-package) ·
 > Video tutorials: [youtube.com/@SchemaSketch](https://www.youtube.com/@SchemaSketch)

@@ -9,6 +9,9 @@ dates that section and opens a pull request to `main`; once it is merged,
 
 ## Unreleased
 
+- README shows a live example diagram (a SchemaSketch share link that updates when the
+  diagram is edited).
+
 ## 0.7.2 (2026-11-17)
 
 - The repository moved to the SchemaSketch organization on GitHub:
