@@ -9,6 +9,8 @@ dates that section and opens a pull request to `main`; once it is merged,
 
 ## Unreleased
 
+## 0.7.3 (2026-11-24)
+
 - README shows a live example diagram (a SchemaSketch share link that updates when the
   diagram is edited).
 
